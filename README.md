@@ -7,6 +7,12 @@
 
 ---
 
+### ⏱️ Impacto de Negócio & Horas Economizadas (Pé no chão)
+- **Documentação de Processos (PDD):** Redução de **~50% do tempo** necessário para documentar processos manuais. Um fluxo que levava **~2 a 3 horas** montando prints e descrevendo passos no Word passa a ser gerado automaticamente durante a própria execução.
+- **Desenvolvimento de Scripts RPA:** Redução de **~40% do tempo de depuração** de seletores e coordenadas de tela com o inspetor flutuante em tempo real.
+
+---
+
 ## 📌 Ferramentas Inclusas
 
 ### 1. `copiador_de_passos.py` (Activity Step Documenter)
